@@ -19,7 +19,7 @@ public class PTPermataPratama {
         System.out.print("++++++++++++++++++++++++++++++++++++++++++++++++++++++");
      
         System.out.print("Nama Petugas : ");
-        namaPetugas = input.nextLine();
+        Petugas = input.nextLine();
 
         System.out.print("Tanggal : ");
         tanggal = input.nextLine();
@@ -74,7 +74,6 @@ public class PTPermataPratama {
     
     System.out.print("\t\t\tPT. PERMATA PRATAMA\t\t\t");
     System.out.print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++");
-    System.out.
-    }
+            }
 }
         
